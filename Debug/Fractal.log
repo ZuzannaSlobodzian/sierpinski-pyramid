@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fractal\main.cpp(56,1): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fractal\main.cpp(337,42): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fractal\main.cpp(350,18): warning C4305: "=": obcięcie z "double" do "GLfloat"
+C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fractal\main.cpp(399,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Fractal.vcxproj -> C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fractal\Debug\Shaders05.exe

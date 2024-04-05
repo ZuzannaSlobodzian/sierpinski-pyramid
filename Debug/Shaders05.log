@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fraktal\main.cpp(51,2): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fraktal\main.cpp(373,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  Shaders05.vcxproj -> C:\Users\zuzka\Documents\studia\semestr_4\grafika_komputerowa_3D\Fraktal\Debug\Shaders05.exe
