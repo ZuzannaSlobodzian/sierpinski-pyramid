@@ -1,9 +1,11 @@
 # Sierpinski Pyramid
 
 ## 3D visualization of Sierpinski Pyramid using the OpenGL library.
+
 The program initially prompts the user to enter the number of triangle subdivisions. Then, a pyramid representing the 3D visualization of the Sierpinski triangle with the specified number of subdivisions is generated.
 
 Using the left mouse button, the user can freely rotate the pyramid. Pressing the right mouse button brings up a menu from which the user can choose one of three visualization modes for the pyramid: polygons, lines, or transparent. Alternatively, the user can select the "exit" option to terminate the program.
+
   - **changing modes**
     
     ![gif_3](https://github.com/ZuzannaSlobodzian/sierpinski-pyramid/assets/97484679/bfd873c2-4a51-4b7f-a1b4-7148e98fef1f)
